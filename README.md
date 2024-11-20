@@ -33,10 +33,5 @@ A simple React application that provides two features:
     ```
 # DEMO
 [Link to Demo](https://primefactorial.vercel.app/)
-<video width="600" controls>
-  <source src="./src/assets/demo.mp4" type="video/mp4">
-</video>
 
-<video width="1090" controls>
-  <source src="./src/assets/demo.gif" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tDD8DqgYnDo?si=mTfZ0_WJGEnKf2vC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
