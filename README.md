@@ -36,3 +36,7 @@ A simple React application that provides two features:
 <video width="600" controls>
   <source src="./src/assets/demo.mp4" type="video/mp4">
 </video>
+
+<video width="1090" controls>
+  <source src="./src/assets/demo.gif" type="video/mp4">
+</video>
