@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 12px;
+    background-color: #121212;
+}
+
+.title{
+    font-size: 3rem;
+    line-height: 1;
+    text-align: center;
+    margin-bottom: 0.5rem;
+    color: white;
+    font-weight: 700;
+}
