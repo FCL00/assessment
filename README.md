@@ -16,7 +16,7 @@ A simple React application that provides two features:
 ## Installation
 1. Clone the repository to your local machine:
     ```
-    git clone https://github.com/FCL00/assessment
+    git clone https://github.com/FCL00/prime-factorial.git
     ```
 2. Navigate inside the project directory
     ```
